@@ -1,0 +1,245 @@
+.div1 {
+  position: absolute;
+  top: 16px;
+  left: 27px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 58px;
+  height: 19px;
+}
+.group-child7,
+.group-child8,
+.group-child9 {
+  position: absolute;
+  top: 5.7px;
+  left: 5.8px;
+  background-color: var(--color-black);
+  width: 3.5px;
+  height: 14.3px;
+}
+.group-child8,
+.group-child9 {
+  top: 10.5px;
+  left: 0;
+  height: 9.5px;
+}
+.group-child9 {
+  top: 0;
+  left: 11.5px;
+  height: 20px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 11px;
+  left: 314px;
+  width: 15px;
+  height: 20px;
+}
+.lte1 {
+  position: absolute;
+  top: 16px;
+  left: 342px;
+}
+.group-child10,
+.group-child11 {
+  position: absolute;
+  background-color: var(--color-black);
+}
+.group-child10 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 29px;
+  height: 12px;
+}
+.group-child11 {
+  top: 4px;
+  left: 20px;
+  border-radius: var(--br-12xs);
+  width: 11px;
+  height: 4px;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 19px;
+  left: 376px;
+  width: 31px;
+  height: 12px;
+}
+.calling-child,
+.calling-item {
+  position: absolute;
+  top: 910px;
+  left: 73px;
+  background-color: var(--color-black);
+  width: 285px;
+  height: 10px;
+}
+.calling-item {
+  top: 2px;
+  left: 99px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  border: 6px solid var(--color-black);
+  box-sizing: border-box;
+  width: 209px;
+  height: 38px;
+}
+.calling-mobile,
+.div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div2 {
+  top: 35px;
+  left: 36px;
+  font-size: var(--font-size-17xl);
+}
+.calling-mobile-parent {
+  position: absolute;
+  top: 146px;
+  left: 136px;
+  width: 155px;
+  height: 78px;
+  font-size: var(--font-size-xl);
+}
+.calling-inner {
+  position: absolute;
+  top: 69px;
+  left: 342px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 41px;
+  height: 35px;
+}
+.i {
+  position: absolute;
+  top: 74px;
+  left: 360px;
+  font-size: var(--font-size-xl);
+}
+.calling-child1,
+.calling-child2,
+.calling-child3,
+.ellipse-div {
+  position: absolute;
+  top: 522px;
+  left: 49px;
+  border-radius: 50%;
+  background-color: var(--color-darkslategray);
+  width: 78px;
+  height: 73px;
+}
+.calling-child1,
+.calling-child2,
+.calling-child3 {
+  top: 659px;
+  left: 302px;
+}
+.calling-child2,
+.calling-child3 {
+  left: 49px;
+}
+.calling-child3 {
+  top: 522px;
+  left: 302px;
+}
+.mic-fill-icon {
+  position: absolute;
+  top: 540px;
+  left: 322px;
+  width: 38px;
+  height: 37px;
+}
+.sound-max-fill-icon,
+.speaker {
+  position: absolute;
+  top: 537px;
+  left: 61px;
+  width: 46px;
+  height: 43px;
+}
+.speaker {
+  top: 600px;
+  left: 49px;
+  display: inline-block;
+  width: 79px;
+  height: 20px;
+}
+.group-child12,
+.mute {
+  position: absolute;
+  top: 596px;
+  left: 322px;
+}
+.group-child12 {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: rgba(248, 0, 0, 0.83);
+  width: 78px;
+  height: 73px;
+}
+.phone-fill-icon {
+  position: absolute;
+  top: 17.4px;
+  left: 22px;
+  width: 35px;
+  height: 34.9px;
+  object-fit: contain;
+}
+.end {
+  position: absolute;
+  top: 76px;
+  left: 23px;
+}
+.ellipse-parent,
+.group-icon {
+  position: absolute;
+  top: 659px;
+  left: 171px;
+  width: 78px;
+  height: 95px;
+}
+.group-icon {
+  top: 681px;
+  left: 322px;
+  width: 36px;
+  height: 29px;
+}
+.add-round-icon,
+.keypad {
+  position: absolute;
+  top: 735px;
+  left: 311px;
+}
+.add-round-icon {
+  top: 665px;
+  left: 56px;
+  width: 63px;
+  height: 62px;
+}
+.add {
+  position: absolute;
+  top: 735px;
+  left: 68px;
+}
+.calling {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-white);
+  border: 7px solid var(--color-black);
+  box-sizing: border-box;
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-abeezee);
+}

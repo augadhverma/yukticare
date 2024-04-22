@@ -1,0 +1,251 @@
+.div4 {
+  position: absolute;
+  top: 16px;
+  left: 27px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-abeezee);
+  text-align: center;
+  display: inline-block;
+  width: 58px;
+  height: 19px;
+}
+.group-child24,
+.group-child25,
+.group-child26 {
+  position: absolute;
+  top: 5.7px;
+  left: 5.8px;
+  background-color: var(--color-black);
+  width: 3.5px;
+  height: 14.3px;
+}
+.group-child25,
+.group-child26 {
+  top: 10.5px;
+  left: 0;
+  height: 9.5px;
+}
+.group-child26 {
+  top: 0;
+  left: 11.5px;
+  height: 20px;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 11px;
+  left: 314px;
+  width: 15px;
+  height: 20px;
+}
+.lte3 {
+  position: absolute;
+  top: 16px;
+  left: 342px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abeezee);
+  text-align: center;
+}
+.group-child27,
+.group-child28 {
+  position: absolute;
+  background-color: var(--color-black);
+}
+.group-child27 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 29px;
+  height: 12px;
+}
+.group-child28 {
+  top: 4px;
+  left: 20px;
+  border-radius: var(--br-12xs);
+  width: 11px;
+  height: 4px;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 19px;
+  left: 376px;
+  width: 31px;
+  height: 12px;
+}
+.hello2,
+.mr-mehta2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mr-mehta2 {
+  top: 18px;
+  left: 2px;
+  color: var(--color-gray-300);
+  text-align: center;
+}
+.hello-container {
+  position: absolute;
+  top: 80px;
+  left: 93px;
+  width: 78px;
+  height: 37px;
+  cursor: pointer;
+  text-align: right;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abeezee);
+}
+.appointments-child {
+  position: absolute;
+  top: 91.5px;
+  left: 45px;
+  width: 30px;
+  height: 18px;
+  cursor: pointer;
+}
+.add-appointments {
+  position: absolute;
+  top: 174px;
+  left: 56px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  color: var(--color-gray-400);
+  width: 286px;
+  height: 92px;
+}
+.appointments-item {
+  position: absolute;
+  top: 269px;
+  left: -14px;
+  width: 434px;
+  height: 1px;
+  object-fit: contain;
+}
+.appointments-inner {
+  position: absolute;
+  top: 2px;
+  left: 99px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-black);
+  box-sizing: border-box;
+  width: 209px;
+  height: 38px;
+}
+.black-white-leaf-logo-removebg-icon2 {
+  position: absolute;
+  top: 43px;
+  left: 336px;
+  width: 84px;
+  height: 102px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-child29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen-100);
+  width: 362px;
+  height: 169px;
+}
+.dr-rohan-gupta {
+  margin: 0;
+}
+.span {
+  font-weight: 300;
+}
+.p {
+  margin: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+}
+.dr-rohan-gupta-container {
+  position: absolute;
+  top: 23px;
+  left: 25px;
+  display: inline-block;
+  width: 307px;
+  height: 110px;
+}
+.rectangle-parent15,
+.rectangle-parent16 {
+  position: absolute;
+  top: 346px;
+  left: 35px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 362px;
+  height: 169px;
+}
+.rectangle-parent16 {
+  top: 536px;
+}
+.appointments-child1 {
+  position: absolute;
+  top: 354px;
+  left: 410px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  width: 6px;
+  height: 274px;
+}
+.appointments-child2,
+.group-child31 {
+  position: absolute;
+  top: 910px;
+  left: 73px;
+  background-color: var(--color-black);
+  width: 285px;
+  height: 10px;
+}
+.group-child31 {
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-52xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkseagreen-200);
+  box-sizing: border-box;
+  width: 183px;
+  height: 39px;
+}
+.add-new-doctor {
+  position: absolute;
+  top: 10px;
+  left: 27.1px;
+  display: inline-block;
+  width: 146.9px;
+}
+.rectangle-parent17 {
+  position: absolute;
+  top: 287px;
+  left: 35px;
+  width: 183px;
+  height: 39px;
+  font-size: var(--font-size-mini);
+}
+.rectangle-parent18 {
+  position: absolute;
+  top: 725px;
+  left: 35px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 362px;
+  height: 169px;
+}
+.appointments1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-white);
+  border: 7px solid var(--color-black);
+  box-sizing: border-box;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,259 @@
+.input {
+  background-color: transparent;
+}
+.div9 {
+  position: absolute;
+  top: 16px;
+  left: 27px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-abeezee);
+  text-align: center;
+  display: inline-block;
+  width: 58px;
+  height: 19px;
+}
+.group-child58,
+.group-child59,
+.group-child60 {
+  position: absolute;
+  top: 5.7px;
+  left: 5.8px;
+  background-color: var(--color-black);
+  width: 3.5px;
+  height: 14.3px;
+}
+.group-child59,
+.group-child60 {
+  top: 10.5px;
+  left: 0;
+  height: 9.5px;
+}
+.group-child60 {
+  top: 0;
+  left: 11.5px;
+  height: 20px;
+}
+.rectangle-parent31 {
+  position: absolute;
+  top: 11px;
+  left: 314px;
+  width: 15px;
+  height: 20px;
+}
+.lte8 {
+  position: absolute;
+  top: 16px;
+  left: 342px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abeezee);
+  text-align: center;
+}
+.group-child61,
+.group-child62 {
+  position: absolute;
+  background-color: var(--color-black);
+}
+.group-child61 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 29px;
+  height: 12px;
+}
+.group-child62 {
+  top: 4px;
+  left: 20px;
+  border-radius: var(--br-12xs);
+  width: 11px;
+  height: 4px;
+}
+.rectangle-parent32 {
+  position: absolute;
+  top: 19px;
+  left: 376px;
+  width: 31px;
+  height: 12px;
+}
+.hello5,
+.mr-mehta4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mr-mehta4 {
+  top: 18px;
+  left: 2px;
+  color: var(--color-gray-300);
+  text-align: center;
+}
+.hello-parent2 {
+  position: absolute;
+  top: 80px;
+  left: 93px;
+  width: 78px;
+  height: 37px;
+  text-align: right;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abeezee);
+}
+.i121-1-icon2,
+.medicine-reminders-child6 {
+  position: absolute;
+  top: 91.5px;
+  left: 45px;
+  width: 30px;
+  height: 18px;
+}
+.i121-1-icon2 {
+  top: 139px;
+  left: 242px;
+  width: 169px;
+  height: 171px;
+  object-fit: cover;
+}
+.new {
+  margin: 0;
+}
+.new-medicine-reminder-container {
+  position: absolute;
+  top: 174px;
+  left: 56px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  color: var(--color-gray-400);
+  width: 286px;
+  height: 92px;
+}
+.medicine-reminders-child7 {
+  position: absolute;
+  top: 326px;
+  left: -13px;
+  width: 434px;
+  height: 1px;
+  object-fit: contain;
+}
+.medicine-reminders-child8,
+.medicine-reminders-child9 {
+  position: absolute;
+  top: 910px;
+  left: 73px;
+  background-color: var(--color-black);
+  width: 285px;
+  height: 10px;
+}
+.medicine-reminders-child9 {
+  top: 2px;
+  left: 99px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  border: 6px solid var(--color-black);
+  box-sizing: border-box;
+  width: 209px;
+  height: 38px;
+}
+.black-white-leaf-logo-removebg-icon7 {
+  position: absolute;
+  top: 43px;
+  left: 336px;
+  width: 84px;
+  height: 102px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.medicine-reminders-child10 {
+  position: absolute;
+  top: 371px;
+  left: 47px;
+  border-radius: var(--br-88xl);
+  background-color: var(--color-darkseagreen-100);
+  width: 334px;
+  height: 47px;
+}
+.add-a-title,
+.reminder-title {
+  position: absolute;
+  display: inline-block;
+}
+.add-a-title {
+  top: 383px;
+  left: 65px;
+  color: var(--color-gray-400);
+  width: 261px;
+  height: 42px;
+}
+.reminder-title {
+  top: 348px;
+  left: 55px;
+  width: 253px;
+  height: 23px;
+}
+.medicine-reminders-child11 {
+  position: absolute;
+  top: 486px;
+  left: 47px;
+  border-radius: var(--br-88xl);
+  background-color: var(--color-darkseagreen-100);
+  width: 334px;
+  height: 47px;
+}
+.choose-time,
+.when-to-remind {
+  position: absolute;
+  display: inline-block;
+}
+.choose-time {
+  top: 498px;
+  left: 65px;
+  color: var(--color-gray-400);
+  width: 261px;
+  height: 42px;
+}
+.when-to-remind {
+  top: 463px;
+  left: 55px;
+  width: 253px;
+  height: 23px;
+}
+.group-child63 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-52xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkseagreen-200);
+  box-sizing: border-box;
+  width: 187px;
+  height: 39px;
+}
+.add-reminder1 {
+  position: absolute;
+  top: 12px;
+  left: 36px;
+}
+.rectangle-parent33 {
+  position: absolute;
+  top: 574px;
+  left: 120px;
+  width: 187px;
+  height: 39px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.medicine-reminders3 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-white);
+  border: 7px solid var(--color-black);
+  box-sizing: border-box;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,213 @@
+.frame-child22 {
+  width: 168px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: -49px;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-forestgreen-100);
+}
+.april-2024,
+.dr-ruby {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.dr-ruby {
+  margin: 0;
+  width: 102px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.april-2024 {
+  margin-left: -10px;
+  font-size: var(--font-size-mini);
+  min-width: 103px;
+}
+.rectangle-parent5 {
+  width: 124px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lgi) var(--padding-8xs) var(--padding-17xl) 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-mini);
+}
+.frame-child23 {
+  width: 168px;
+  height: 176px;
+  position: relative;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-forestgreen-100);
+  display: none;
+}
+.dr-rohan,
+.june-2024 {
+  position: relative;
+  z-index: 1;
+}
+.dr-rohan {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.june-2024 {
+  display: inline-block;
+  min-width: 104px;
+}
+.june-2024-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-6xs);
+  font-size: var(--font-size-mini);
+}
+.june-2024-wrapper,
+.rectangle-parent6,
+.with-you-in-life-logo-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent6 {
+  flex: 1;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-forestgreen-100);
+  flex-direction: column;
+  padding: var(--padding-4xl) var(--padding-base) var(--padding-18xl)
+    var(--padding-lgi);
+  gap: var(--gap-3xs);
+}
+.with-you-in-life-logo-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-xs) 0 var(--padding-6xs);
+}
+.frame-child24 {
+  height: 39px;
+  width: 187px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-52xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkseagreen-200);
+  box-sizing: border-box;
+  display: none;
+}
+.add-appointment {
+  position: relative;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.group-button {
+  cursor: pointer;
+  border: 1px solid var(--color-darkseagreen-200);
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs)
+    var(--padding-5xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-52xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.group-button:hover {
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-darkseagreen-300);
+  box-sizing: border-box;
+}
+.with-you-in-life-logo,
+.with-you-in-life-logo-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.with-you-in-life-logo {
+  align-self: stretch;
+  gap: var(--gap-lg);
+}
+.with-you-in-life-logo-wrapper {
+  flex: 1;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  min-width: 122px;
+}
+.insurance-policies {
+  width: 168px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -53px;
+  bottom: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-forestgreen-100);
+}
+.dr-vidhu {
+  margin: 0;
+  width: 133px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.dr-vidhu-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.june-20241 {
+  position: relative;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  min-width: 104px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.insurance-policies-parent {
+  align-self: stretch;
+  flex-direction: column;
+  padding: var(--padding-lg) 0 var(--padding-18xl) var(--padding-3xl);
+  position: relative;
+  gap: var(--gap-mini);
+}
+.appointment-container,
+.doctor-info-label,
+.insurance-policies-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.appointment-container {
+  width: 115px;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.doctor-info-label {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-12xs);
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

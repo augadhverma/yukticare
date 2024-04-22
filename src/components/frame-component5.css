@@ -1,0 +1,312 @@
+.div4 {
+  align-self: stretch;
+  position: relative;
+  white-space: nowrap;
+}
+.wrapper1 {
+  width: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.frame-child36 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-black);
+  box-sizing: border-box;
+}
+.frame-child37,
+.frame-child38,
+.frame-child39 {
+  position: absolute;
+  top: 10.5px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 3.5px;
+  height: 9.5px;
+}
+.frame-child38,
+.frame-child39 {
+  top: 5.7px;
+  left: 5.8px;
+  height: 14.3px;
+}
+.frame-child39 {
+  top: 0;
+  left: 11.5px;
+  height: 20px;
+}
+.rectangle-parent12 {
+  width: 15px;
+  height: 20px;
+  position: relative;
+}
+.frame-wrapper12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-6xs) 0 0;
+}
+.lte4 {
+  position: relative;
+  display: inline-block;
+  min-width: 25px;
+}
+.lte-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-10xs) 0 0;
+}
+.frame-child40,
+.frame-child41 {
+  position: absolute;
+  background-color: var(--color-black);
+}
+.frame-child40 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 29px;
+  height: 12px;
+  display: none;
+}
+.frame-child41 {
+  top: 4px;
+  left: 20px;
+  border-radius: var(--br-12xs);
+  width: 11px;
+  height: 4px;
+  z-index: 1;
+}
+.rectangle-parent13 {
+  width: 31px;
+  height: 12px;
+  position: relative;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.frame-wrapper13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) 0 0;
+}
+.frame-parent6,
+.frame-wrapper11,
+.rectangle-parent11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent11 {
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  font-size: var(--font-size-base);
+}
+.frame-parent6,
+.frame-wrapper11 {
+  max-width: 100%;
+}
+.frame-parent6 {
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.frame-wrapper11 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-smi) 0 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-abeezee);
+}
+.hello2,
+.mr-mehta1 {
+  position: relative;
+  display: inline-block;
+  min-width: 45px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.mr-mehta1 {
+  min-width: 76px;
+}
+.hello-group,
+.mr-mehta-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mr-mehta-container {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-11xs);
+  margin-top: -1px;
+  text-align: center;
+  color: var(--color-gray-300);
+}
+.hello-group {
+  flex-direction: column;
+  cursor: pointer;
+}
+.group-icon {
+  height: 18px;
+  width: 30px;
+  position: absolute;
+  margin: 0 !important;
+  top: 11.5px;
+  left: -10px;
+  cursor: pointer;
+}
+.frame-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-19xl) var(--padding-13xl);
+  position: relative;
+}
+.medicine-reminders3 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 1;
+}
+.i121-1-icon1 {
+  position: absolute;
+  top: 96px;
+  left: 0;
+  width: 169px;
+  height: 171px;
+  object-fit: cover;
+}
+.black-white-leaf-logo-removebg-icon3 {
+  position: absolute;
+  top: 0;
+  left: 94px;
+  width: 84px;
+  height: 102px;
+  object-fit: cover;
+  cursor: pointer;
+  z-index: 1;
+}
+.date-and-time {
+  height: 267px;
+  width: 178px;
+  position: absolute;
+  margin: 0 !important;
+  top: -131px;
+  right: -78px;
+}
+.add-button,
+.reminder-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.reminder-list {
+  flex: 1;
+  position: relative;
+}
+.add-button {
+  width: 288px;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-montserrat);
+}
+.frame-child42 {
+  height: 39px;
+  width: 162px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-52xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkseagreen-200);
+  box-sizing: border-box;
+  display: none;
+}
+.add-reminder {
+  position: relative;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: left;
+  min-width: 114px;
+  z-index: 1;
+}
+.rectangle-parent14 {
+  cursor: pointer;
+  border: 1px solid var(--color-darkseagreen-200);
+  padding: var(--padding-5xs) var(--padding-5xl) var(--padding-4xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-52xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.rectangle-parent14:hover {
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-darkseagreen-300);
+  box-sizing: border-box;
+}
+.frame-parent5,
+.frame-parent7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent7 {
+  width: 375px;
+  align-items: flex-start;
+  padding: var(--padding-18xl) var(--padding-3xs) 0;
+  box-sizing: border-box;
+  gap: var(--gap-6xl);
+  margin-top: -1px;
+}
+.frame-parent5 {
+  flex: 1;
+  align-items: flex-end;
+}
+.medicine-reminders-inner {
+  width: 401px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-abeezee);
+}

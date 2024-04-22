@@ -1,0 +1,106 @@
+.service-title-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  margin-top: -1px;
+}
+.frame-child25 {
+  width: 362px;
+  height: 169px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen-100);
+  display: none;
+  max-width: 100%;
+}
+.insurance,
+.policies {
+  margin: 0;
+}
+.insurance-policies1 {
+  margin: 0;
+  height: 92px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.mjexmi53mdeylm4wmdeumzhqos5wni-icon {
+  height: 111px;
+  width: 119px;
+  position: absolute;
+  margin: 0 !important;
+  right: -39px;
+  bottom: -24px;
+  border-radius: var(--br-8xs);
+  object-fit: cover;
+  z-index: 2;
+}
+.frame-wrapper7,
+.insurance-policies-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.insurance-policies-group {
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper7 {
+  width: 296px;
+  padding: 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.with-you-in {
+  position: relative;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  z-index: 1;
+}
+.rectangle-parent7 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen-100);
+  flex-direction: column;
+  padding: var(--padding-3xl) var(--padding-6xl) var(--padding-17xl);
+  box-sizing: border-box;
+  gap: var(--gap-12xs);
+}
+.frame-footer,
+.frame-wrapper6,
+.rectangle-parent7,
+.service-title-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper6 {
+  flex: 1;
+  flex-direction: row;
+  cursor: pointer;
+}
+.frame-footer,
+.service-title-parent {
+  align-self: stretch;
+}
+.frame-footer {
+  flex-direction: row;
+  padding: 0 var(--padding-16xl) 0 var(--padding-12xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-montserrat);
+}
+.service-title-parent {
+  flex-direction: column;
+  gap: var(--gap-3xs);
+}

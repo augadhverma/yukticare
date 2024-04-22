@@ -1,0 +1,178 @@
+.frame-child21,
+.latest-project,
+.line-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 31px;
+  height: 1px;
+}
+.frame-child21,
+.line-div {
+  top: 8px;
+}
+.frame-child21 {
+  top: 17px;
+}
+.latest-project-parent {
+  width: 30px;
+  height: 17px;
+  position: relative;
+  cursor: pointer;
+}
+.doctor-name-label-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-5xs);
+}
+.hello,
+.mr-mehta {
+  position: relative;
+  display: inline-block;
+  min-width: 45px;
+}
+.mr-mehta {
+  min-width: 76px;
+  z-index: 1;
+}
+.hello-parent,
+.mr-mehta-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mr-mehta-wrapper {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-11xs);
+  margin-top: -1px;
+  text-align: center;
+  color: var(--color-gray-300);
+}
+.hello-parent {
+  flex-direction: column;
+  cursor: pointer;
+}
+.doctor-name-label,
+.doctor-name-label-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.doctor-name-label {
+  align-items: flex-end;
+  gap: var(--gap-lg);
+}
+.doctor-name-label-wrapper {
+  align-items: flex-start;
+  padding: 0 var(--padding-3xs);
+}
+.i121-1-icon {
+  position: absolute;
+  top: 0;
+  left: 207px;
+  width: 169px;
+  height: 171px;
+  object-fit: contain;
+  z-index: 2;
+}
+.date-label-child {
+  width: 362px;
+  height: 169px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen-100);
+  display: none;
+  max-width: 100%;
+}
+.medicine-reminders2 {
+  margin: 0;
+  width: 286px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 3;
+}
+.next {
+  font-family: var(--font-montserrat);
+}
+.next-vitamin-c-capsules {
+  margin: 0;
+}
+.am-23-april-2024 {
+  margin: 0;
+  color: var(--color-gray-400);
+}
+.next-vitamin-c-container {
+  width: 204px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  z-index: 1;
+  color: var(--color-black);
+}
+.date-label {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen-100);
+  width: 362px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xl) var(--padding-xl) var(--padding-3xl)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  gap: var(--gap-4xs);
+  max-width: 100%;
+}
+.black-white-leaf-logo-removebg-icon1 {
+  position: absolute;
+  top: -96px;
+  right: -9px;
+  width: 84px;
+  height: 102px;
+  object-fit: contain;
+  z-index: 4;
+}
+.i121-1-parent {
+  align-self: stretch;
+  height: 183px;
+  position: relative;
+  max-width: 100%;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-montserrat);
+}
+.appointment-label,
+.appointment-label-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.appointment-label {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.appointment-label-wrapper {
+  width: 410px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-abeezee);
+}

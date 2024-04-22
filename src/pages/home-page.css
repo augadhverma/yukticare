@@ -1,0 +1,384 @@
+.div {
+  position: absolute;
+  top: 16px;
+  left: 27px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-abeezee);
+  text-align: center;
+  display: inline-block;
+  width: 58px;
+  height: 19px;
+}
+.group-child,
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 5.7px;
+  left: 5.8px;
+  background-color: var(--color-black);
+  width: 3.5px;
+  height: 14.3px;
+}
+.group-inner,
+.group-item {
+  top: 10.5px;
+  left: 0;
+  height: 9.5px;
+}
+.group-inner {
+  top: 0;
+  left: 11.5px;
+  height: 20px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 11px;
+  left: 314px;
+  width: 15px;
+  height: 20px;
+}
+.lte {
+  position: absolute;
+  top: 16px;
+  left: 342px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abeezee);
+  text-align: center;
+}
+.group-child1,
+.rectangle-div {
+  position: absolute;
+  background-color: var(--color-black);
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 29px;
+  height: 12px;
+}
+.group-child1 {
+  top: 4px;
+  left: 20px;
+  border-radius: var(--br-12xs);
+  width: 11px;
+  height: 4px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 19px;
+  left: 376px;
+  width: 31px;
+  height: 12px;
+}
+.hello,
+.mr-mehta {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mr-mehta {
+  top: 18px;
+  left: 2px;
+  color: var(--color-gray-300);
+  text-align: center;
+}
+.hello-parent {
+  position: absolute;
+  top: 80px;
+  left: 93px;
+  width: 78px;
+  height: 37px;
+  cursor: pointer;
+  text-align: right;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abeezee);
+}
+.group-child2,
+.group-child3,
+.line-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 31px;
+  height: 1px;
+}
+.group-child2,
+.group-child3 {
+  top: 8px;
+}
+.group-child3 {
+  top: 17px;
+}
+.home-page-inner,
+.line-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 17px;
+}
+.home-page-inner {
+  top: 92px;
+  left: 45px;
+  cursor: pointer;
+}
+.home-page-child,
+.home-page-child1,
+.home-page-item {
+  position: absolute;
+  background-color: var(--color-forestgreen-100);
+  width: 168px;
+  height: 176px;
+}
+.home-page-child {
+  top: 441px;
+  left: -49px;
+  border-radius: 27px;
+}
+.home-page-child1,
+.home-page-item {
+  top: 442px;
+  left: 132px;
+  border-radius: var(--br-5xl);
+}
+.home-page-child1 {
+  left: 313px;
+}
+.dr-rohan,
+.dr-ruby,
+.dr-vidhu,
+.june-2024,
+.june-20241 {
+  position: absolute;
+  top: 563px;
+  left: 158px;
+  display: inline-block;
+  width: 104px;
+  height: 18px;
+}
+.dr-rohan,
+.dr-ruby,
+.dr-vidhu,
+.june-20241 {
+  left: 335px;
+}
+.dr-rohan,
+.dr-ruby,
+.dr-vidhu {
+  top: 465px;
+  left: 151px;
+  font-size: var(--font-size-17xl);
+  width: 133px;
+  height: 98px;
+}
+.dr-ruby,
+.dr-vidhu {
+  top: 460px;
+  left: 336px;
+}
+.dr-ruby {
+  left: -18px;
+  width: 102px;
+  height: 100px;
+}
+.group-child4 {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen-100);
+  width: 362px;
+  height: 169px;
+}
+.next {
+  font-family: var(--font-montserrat);
+}
+.next-vitamin-c-capsules {
+  margin: 0;
+}
+.am-23-april-2024 {
+  margin: 0;
+  color: var(--color-gray-400);
+}
+.next-vitamin-c-container {
+  position: absolute;
+  top: 122px;
+  left: 21px;
+  display: inline-block;
+  width: 204px;
+  height: 39px;
+}
+.i121-1-icon {
+  position: absolute;
+  top: 0;
+  left: 207px;
+  width: 169px;
+  height: 171px;
+  object-fit: cover;
+}
+.medicine-reminders {
+  position: absolute;
+  top: 35px;
+  left: 21px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  color: var(--color-gray-400);
+  width: 286px;
+  height: 92px;
+}
+.appointments,
+.rectangle-container {
+  position: absolute;
+  top: 139px;
+  left: 35px;
+  width: 376px;
+  height: 183px;
+  cursor: pointer;
+}
+.appointments {
+  top: 387px;
+  left: 33px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  color: var(--color-gray-400);
+  width: 286px;
+  height: 92px;
+}
+.april-2024 {
+  position: absolute;
+  top: 563px;
+  left: -10px;
+}
+.home-page-child2,
+.line-icon {
+  position: absolute;
+  top: 353px;
+  left: -10px;
+  width: 434px;
+  height: 1px;
+  object-fit: contain;
+}
+.home-page-child2 {
+  top: 692px;
+  left: 0;
+  width: 428px;
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen-100);
+  width: 362px;
+  height: 169px;
+}
+.insurance-policies {
+  position: absolute;
+  top: 22px;
+  left: 30px;
+  display: inline-block;
+  width: 286px;
+  height: 92px;
+}
+.with-you-in {
+  position: absolute;
+  top: 115px;
+  left: 25px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.mjexmi53mdeylm4wmdeumzhqos5wni-icon {
+  position: absolute;
+  top: 27px;
+  left: 236px;
+  border-radius: var(--br-8xs);
+  width: 119px;
+  height: 111px;
+  object-fit: cover;
+}
+.group-div,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 362px;
+  height: 169px;
+}
+.group-div {
+  top: 703px;
+  left: 31px;
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-400);
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-52xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkseagreen-200);
+  box-sizing: border-box;
+  width: 187px;
+  height: 39px;
+}
+.add-appointment {
+  position: absolute;
+  top: 12px;
+  left: 24px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 636px;
+  left: 125px;
+  width: 187px;
+  height: 39px;
+  cursor: pointer;
+}
+.home-page-child3,
+.home-page-child4 {
+  position: absolute;
+  top: 910px;
+  left: 73px;
+  background-color: var(--color-black);
+  width: 285px;
+  height: 10px;
+}
+.home-page-child4 {
+  top: 2px;
+  left: 99px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  border: 6px solid var(--color-black);
+  box-sizing: border-box;
+  width: 209px;
+  height: 38px;
+}
+.black-white-leaf-logo-removebg-icon {
+  position: absolute;
+  top: 43px;
+  left: 336px;
+  width: 84px;
+  height: 102px;
+  object-fit: cover;
+}
+.home-page {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-white);
+  border: 7px solid var(--color-black);
+  box-sizing: border-box;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

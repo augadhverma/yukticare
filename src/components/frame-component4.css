@@ -1,0 +1,132 @@
+.rectangle-input,
+.rectangle-input1,
+.rectangle-input2,
+.rectangle-input3 {
+  margin: 0;
+  width: 20px;
+  height: 21px;
+  position: relative;
+  filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.25));
+  border-radius: var(--br-9xs);
+  border: 2px solid var(--color-forestgreen-100);
+  box-sizing: border-box;
+}
+.frame-wrapper14,
+.rectangle-parent15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent15 {
+  gap: var(--gap-23xl-7);
+}
+.frame-wrapper14 {
+  padding: var(--padding-2xs) 0 0;
+}
+.am-23,
+.vitamin-c-capsules {
+  margin: 0;
+}
+.am-23 {
+  color: var(--color-gray-400);
+}
+.vitamin-c-capsules-container {
+  align-self: stretch;
+  position: relative;
+}
+.am-231,
+.vitamin-c-capsules1 {
+  margin: 0;
+}
+.am-231 {
+  color: var(--color-gray-400);
+}
+.vitamin-c-capsules-container1 {
+  align-self: stretch;
+  position: relative;
+}
+.am-232,
+.vitamin-c-capsules2 {
+  margin: 0;
+}
+.am-232 {
+  color: var(--color-gray-400);
+}
+.vitamin-c-capsules-container2 {
+  align-self: stretch;
+  position: relative;
+}
+.am-233,
+.vitamin-c-capsules3 {
+  margin: 0;
+}
+.am-233 {
+  color: var(--color-gray-400);
+}
+.vitamin-c-capsules-container3 {
+  align-self: stretch;
+  position: relative;
+}
+.vitamin-c-capsules-0930-am-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.trash-icon,
+.trash-icon1,
+.trash-icon2,
+.trash-icon3 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.medicine-name1,
+.medicine-name2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.medicine-name2 {
+  gap: var(--gap-21xl);
+}
+.medicine-name1 {
+  padding: var(--padding-4xs) 0 0;
+}
+.frame-parent9,
+.trash-bin,
+.vitamin-capsules {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.trash-bin {
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+  min-width: 194px;
+}
+.frame-parent9,
+.vitamin-capsules {
+  max-width: 100%;
+}
+.frame-parent9 {
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.vitamin-capsules {
+  width: 410px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,282 @@
+.div8 {
+  position: absolute;
+  top: 16px;
+  left: 27px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-abeezee);
+  text-align: center;
+  display: inline-block;
+  width: 58px;
+  height: 19px;
+}
+.group-child52,
+.group-child53,
+.group-child54 {
+  position: absolute;
+  top: 5.7px;
+  left: 5.8px;
+  background-color: var(--color-black);
+  width: 3.5px;
+  height: 14.3px;
+}
+.group-child53,
+.group-child54 {
+  top: 10.5px;
+  left: 0;
+  height: 9.5px;
+}
+.group-child54 {
+  top: 0;
+  left: 11.5px;
+  height: 20px;
+}
+.rectangle-parent28 {
+  position: absolute;
+  top: 11px;
+  left: 314px;
+  width: 15px;
+  height: 20px;
+}
+.lte7 {
+  position: absolute;
+  top: 16px;
+  left: 342px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abeezee);
+  text-align: center;
+}
+.group-child55,
+.group-child56 {
+  position: absolute;
+  background-color: var(--color-black);
+}
+.group-child55 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 29px;
+  height: 12px;
+}
+.group-child56 {
+  top: 4px;
+  left: 20px;
+  border-radius: var(--br-12xs);
+  width: 11px;
+  height: 4px;
+}
+.rectangle-parent29 {
+  position: absolute;
+  top: 19px;
+  left: 376px;
+  width: 31px;
+  height: 12px;
+}
+.hello4,
+.mr-mehta3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mr-mehta3 {
+  top: 18px;
+  left: 2px;
+  color: var(--color-gray-300);
+  text-align: center;
+}
+.hello-parent1 {
+  position: absolute;
+  top: 80px;
+  left: 93px;
+  width: 78px;
+  height: 37px;
+  cursor: pointer;
+  text-align: right;
+  font-size: var(--font-size-base);
+  font-family: var(--font-abeezee);
+}
+.medicine-reminders-child {
+  position: absolute;
+  top: 91.5px;
+  left: 45px;
+  width: 30px;
+  height: 18px;
+  cursor: pointer;
+}
+.am-23,
+.vitamin-c-capsules {
+  margin: 0;
+}
+.am-23 {
+  color: var(--color-gray-400);
+}
+.vitamin-c-capsules-container {
+  position: absolute;
+  top: 376px;
+  left: 95px;
+  display: inline-block;
+  width: 261px;
+  height: 42px;
+}
+.vitamin-c-capsules-container1,
+.vitamin-c-capsules-container2,
+.vitamin-c-capsules-container3 {
+  position: absolute;
+  top: 440px;
+  left: 95px;
+  display: inline-block;
+  width: 261px;
+  height: 42px;
+}
+.vitamin-c-capsules-container2,
+.vitamin-c-capsules-container3 {
+  top: 504px;
+}
+.vitamin-c-capsules-container3 {
+  top: 568px;
+}
+.i121-1-icon1 {
+  position: absolute;
+  top: 139px;
+  left: 242px;
+  width: 169px;
+  height: 171px;
+  object-fit: cover;
+}
+.medicine-reminders2 {
+  position: absolute;
+  top: 174px;
+  left: 56px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  color: var(--color-gray-400);
+  width: 286px;
+  height: 92px;
+}
+.medicine-reminders-item {
+  position: absolute;
+  top: 353px;
+  left: -10px;
+  width: 434px;
+  height: 1px;
+  object-fit: contain;
+}
+.medicine-reminders-child1,
+.medicine-reminders-inner {
+  position: absolute;
+  top: 910px;
+  left: 73px;
+  background-color: var(--color-black);
+  width: 285px;
+  height: 10px;
+}
+.medicine-reminders-child1 {
+  top: 2px;
+  left: 99px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  border: 6px solid var(--color-black);
+  box-sizing: border-box;
+  width: 209px;
+  height: 38px;
+}
+.black-white-leaf-logo-removebg-icon6 {
+  position: absolute;
+  top: 43px;
+  left: 336px;
+  width: 84px;
+  height: 102px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-child57 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-52xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkseagreen-200);
+  box-sizing: border-box;
+  width: 162px;
+  height: 39px;
+}
+.add-reminder {
+  position: absolute;
+  top: 10px;
+  left: 24px;
+}
+.rectangle-parent30 {
+  position: absolute;
+  top: 277px;
+  left: 55px;
+  width: 162px;
+  height: 39px;
+  cursor: pointer;
+  font-size: var(--font-size-mini);
+}
+.medicine-reminders-child2,
+.medicine-reminders-child3,
+.medicine-reminders-child4,
+.medicine-reminders-child5 {
+  position: absolute;
+  top: 387px;
+  left: 45px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-forestgreen-100);
+  box-sizing: border-box;
+  width: 20px;
+  height: 21px;
+}
+.medicine-reminders-child3,
+.medicine-reminders-child4,
+.medicine-reminders-child5 {
+  top: 578px;
+}
+.medicine-reminders-child4,
+.medicine-reminders-child5 {
+  top: 514px;
+}
+.medicine-reminders-child5 {
+  top: 450px;
+}
+.trash-icon,
+.trash-icon1,
+.trash-icon2,
+.trash-icon3 {
+  position: absolute;
+  top: 385px;
+  left: 369px;
+  width: 24px;
+  height: 24px;
+}
+.trash-icon1,
+.trash-icon2,
+.trash-icon3 {
+  top: 577px;
+  opacity: 0;
+}
+.trash-icon2,
+.trash-icon3 {
+  top: 513px;
+}
+.trash-icon3 {
+  top: 449px;
+}
+.medicine-reminders1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-white);
+  border: 7px solid var(--color-black);
+  box-sizing: border-box;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
