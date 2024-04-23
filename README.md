@@ -9,3 +9,12 @@
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   
+
+  ## Info
+  Application developed for [WIEHACK 5.0](https://wiehack.ieeebvcoe.in/).
+
+  **Team Details:**
+  
+  Team Name: Iced Tea (#498)
+  
+  Team Members: Augadh Verma, Bhavishya Swami, Rashi Dubey, Vedika Pareek
